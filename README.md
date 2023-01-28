@@ -1,16 +1,15 @@
-### Hi there 👋
+🧑‍💻 ABOUT ME :
 
-<!--
-**Boobesh06/Boobesh06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Developer 🧑‍💻 , Weeb and Binge-Series Watcher!! from India.
 
-Here are some ideas to get you started:
+🔭 Currently Learning and has no prior experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😄 Looking forward to collaborate with others
+
+🌱 Exploring Technical Content Writing.
+
+⚡ In my free time, I solve problems on GeeksforGeeks ,Leetcode and read tech articles.
+
+🥇 Skilled Coder
+
+📫 How to reach me: 
